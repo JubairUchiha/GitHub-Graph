@@ -4,14 +4,14 @@
 <div>
   <h3 align="left">Dark 🌚</h3>
   
-  ![snake gif dark](https://raw.githubusercontent.com/JubairUchiha/GitHub-Graph/30b93c19a99b45b9e324cc63b7f4a152cce187d6/github-contribution-grid-snake-dark.svg)
+  ![snake gif dark](https://github.com/JubairUchiha/GitHub-Graph/blob/main/github-contribution-grid-snake-dark.svg)
   
 </div>
 
 <div>
   <h3 align="left">Light 🌝</h3>
   
-  ![snake gif](https://raw.githubusercontent.com/JubairUchiha/GitHub-Graph/30b93c19a99b45b9e324cc63b7f4a152cce187d6/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/JubairUchiha/GitHub-Graph/blob/main/github-contribution-grid-snake.svg)
   
 </div>
 
